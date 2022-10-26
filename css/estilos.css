@@ -1,12 +1,19 @@
 body 
-{    color: blue;
+{    color: red;
      text-align: center;
       font-family: Arial;
        font-size: 16px;
         margin: 0px;
-         padding: 0px;
+         padding: 0px auto;
          }
-#cabecera {background: rgb(51, 51, 170);color: white;font-weight: bold;margin: 0px;padding: 1px;box-shadow: rgb(0, 0, 0) 3px 1px 21px -1px;}
+#cabecera {
+    background: rgb(51, 51, 170);
+    color: white;
+    font-weight: bold;
+    margin: 0px;
+    padding: 1px 10px;
+    box-shadow: rgb(0, 0, 0) 3px 1px 21px -1px;
+    }
 #cabecera #tagline{
     padding: 0 0 0 1em;
     font-weight: normal;
