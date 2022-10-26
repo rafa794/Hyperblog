@@ -1,18 +1,17 @@
-body{
-    color: #333;
-    text-align: center;
-    font-family: "Arial";
-    font-size: 16px;
-    margin: 0;
-    padding: 0;
+body 
+{    color: rgb(51, 51, 51);
+     text-align: center;
+      font-family: Arial;
+       font-size: 16px;
+        margin: 0px;
+         padding: 0px;
+         }
+#cabecera {background: rgb(51, 51, 170);color: white;font-weight: bold;margin: 0px;padding: 1px;box-shadow: rgb(0, 0, 0) 3px 1px 21px -1px;}
+#cabecera #tagline{
+    padding: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 0.8em;
 }
-#container{
-    width: 70%;
-    padding: 1em;
-    text-align: left;
-    border: 1px solid #DDD;
-    margin: 20px auto;
-}
-#container h1{
-    font-size: 20px;
-}
+#container { width: 70%; padding: 0px; text-align: left; border: 1px solid rgb(221, 221, 221); margin: 20px auto; }
+#container h1 { font-size: 20px; }
+
